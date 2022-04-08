@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Wong;Kenneth;;;
+FN: Kenneth  Wong 
+ORG:Homeland Realty;
+TITLE:Realtor
+EMAIL;type=INTERNET;type=WORK;type=pref:ken@yvrbcrealty.com
+TEL;type=WORK;type=VOICE:604 720 2613
+item1.ADR;type=WORK;type=pref:;;8118 Granville St, Vancouver, BC;;;V6P 4Z4;Canada
+item1.X-ABADR:CA
+item2.URL;type=pref:yvrbcrealty.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
