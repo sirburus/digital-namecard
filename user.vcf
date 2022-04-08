@@ -7,7 +7,7 @@ ORG:Homeland Realty;
 TITLE:Realtor
 EMAIL;type=INTERNET;type=WORK;type=pref:ken@yvrbcrealty.com
 TEL;type=WORK;type=VOICE:604 720 2613
-item1.ADR;type=WORK;type=pref:;;8118 Granville St, Vancouver, BC;;;V6P 4Z4;Canada
+item1.ADR;type=WORK;type=pref:;;8188 Granville St, Vancouver, BC;;;V6P 4Z4;Canada
 item1.X-ABADR:CA
 item2.URL;type=pref:yvrbcrealty.com
 item2.X-ABLabel:_$!<HomePage>!$_
