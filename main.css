@@ -193,3 +193,6 @@ img.profile-pic {
     width: 80%;
   }
 }
+.secondary-info img {
+    filter: brightness(0.85) saturate(1.8) hue-rotate(195deg) !important;
+}
