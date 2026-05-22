@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Wong;Kenneth;;;
 FN: Kenneth  Wong 
-ORG:Homeland Realty;
+ORG:LATitude Realty;
 TITLE:REALTOR®
 EMAIL;type=INTERNET;type=WORK;type=pref:ken@yvrbcrealty.com
 TEL;type=WORK;type=VOICE:604 720 2613
-item1.ADR;type=WORK;type=pref:;;8188 Granville St, Vancouver, BC;;;V6P 4Z4;Canada
+item1.ADR;type=WORK;type=pref:;;4070-8171 Ackroyd Rd, Richmond, BC;;;V6X 3K1;Canada
 item1.X-ABADR:CA
 item2.URL;type=pref:yvrbcrealty.com
 item2.X-ABLabel:_$!<HomePage>!$_
