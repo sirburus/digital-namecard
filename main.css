@@ -193,6 +193,7 @@ img.profile-pic {
     width: 80%;
   }
 }
+/* Change only the icons to blue */
 .secondary-info img {
     filter: brightness(0.85) saturate(1.8) hue-rotate(195deg) !important;
 }
