@@ -193,7 +193,7 @@ img.profile-pic {
     width: 80%;
   }
 }
-/* Make icons match the blue button */
+/* Force icons to blue */
 .secondary-info img {
-    filter: brightness(0) saturate(100%) invert(29%) sepia(94%) saturate(1748%) hue-rotate(192deg) brightness(92%) contrast(96%) !important;
+    filter: brightness(0) invert(30%) sepia(90%) saturate(1500%) hue-rotate(195deg) brightness(95%) contrast(90%) !important;
 }
